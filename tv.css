@@ -2,3 +2,10 @@ body{
     background-position: center;
     background-size: cover;
 }
+
+img{
+    width: 50%;
+    height: 75%;
+    text-align: center;
+
+}
